@@ -1,0 +1,30 @@
+.mainContainer {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.navigationBar {
+  background-color: lightblue !important;
+  width: 100%;
+}
+
+.podaci {
+  padding-top: 10px;
+  font-size: 20px;
+}
+
+.card__ikona:hover {
+  cursor: pointer;
+}
+.data {
+  display: flex;
+  flex-direction: column;
+}
+.card {
+  max-width: fit-content;
+  max-height: max-content;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
